@@ -1,0 +1,1 @@
+import{p as t}from"./index-5de0d8c7.js";const n=(s,o="info")=>t({showClose:!0,message:s,type:o}),a=(s=240)=>window.innerWidth-s,r=(s=90)=>window.innerHeight-s,i=(s,o)=>Math.floor(Math.random()*(o-s))+s;export{r as a,a as g,n as m,i as r};
